@@ -60,3 +60,7 @@
   boder-radius: 8em;
   list-style-type: none;
 }
+
+li{ 
+  list-style-type: none;
+}
