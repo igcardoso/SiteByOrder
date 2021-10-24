@@ -44,7 +44,8 @@
 }
 
 #options-menu button:hover{
-  border-bottom: #FFF;
+  border-bottom: 2px solid #FFF;
+  border: none;
   color: white;
 }
 
