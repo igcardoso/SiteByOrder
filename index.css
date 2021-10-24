@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+#main-page{
+  background: #9401E3;
+  padding-bottom: 30%;
+  width: 100%;
+  border-bottom-left-radius: 100%;
+  border-bottom-right-radius: 100%;
+}
+
+#main-title{
+  padding-left: 1%;
+  color: white;
+}
+
+#options-menu ul li{
+  display: inline-block;
+}
+
+#first-option{
+  margin-left: 10%;
+}
+
+#options-menu ul .options-menu{
+  padding-left: 5%;
+  margin-top: 2.1%;
+}
+
+#options-menu button{
+  background: none;
+  border: none;
+  color: white;
+  font-family: Sans-Serif;
+  font-size: 17px;
+}
+
+#slougan{
+  color: white;
+  max-width: 54%;
+  margin-left: 5%;
+  margin-top: 5%;
+}
