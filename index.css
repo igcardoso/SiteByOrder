@@ -57,7 +57,9 @@
   padding-bottom: 0.6%;
   padding-top: 0.6%;
   border: none;
-  boder-radius: 8em;
+  boder-radius: 8.0em;
+  margin-left: 5%;
+  margin-top: 2%;
   list-style-type: none;
 }
 
