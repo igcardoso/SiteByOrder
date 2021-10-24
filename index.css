@@ -55,6 +55,11 @@
   margin-top: 5%;
 }
 
+#card-principal{
+  text-aling: center;
+  aling-items: center;
+}
+
 #button-start{
   background-color: #FFAF04;
   padding-left: 2%;
