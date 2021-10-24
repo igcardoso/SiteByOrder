@@ -38,9 +38,14 @@
 #options-menu button{
   background: none;
   border: none;
-  color: white;
+  color: #AFAFAF;
   font-family: Sans-Serif;
   font-size: 17px;
+}
+
+#options-menu button:hover{
+  border-bottom: #FFF;
+  color: white;
 }
 
 #slougan{
