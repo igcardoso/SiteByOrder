@@ -53,9 +53,10 @@
 #button-start{
   background-color: #FFAF04;
   padding-left: 2%;
-  padding-rigth: 2%;
+  padding-right: 2%;
   padding-bottom: 0.6%;
   padding-top: 0.6%;
   border: none;
   boder-radius: 8em;
+  list-style: none;
 }
